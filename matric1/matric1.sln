@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matric1", "matric1\matric1.csproj", "{3E99A6CF-718A-40EF-8437-41B8AE92C8B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E99A6CF-718A-40EF-8437-41B8AE92C8B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E99A6CF-718A-40EF-8437-41B8AE92C8B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E99A6CF-718A-40EF-8437-41B8AE92C8B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E99A6CF-718A-40EF-8437-41B8AE92C8B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A183F9AA-24A0-42EF-893D-78718FD8A6CF}
+	EndGlobalSection
+EndGlobal
